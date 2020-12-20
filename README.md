@@ -24,6 +24,7 @@ These section headers will be used to reference location of destination for an e
 #### Languages
 
 - Python
+- Javascript
 
 (This section will be updated with time.)
 
